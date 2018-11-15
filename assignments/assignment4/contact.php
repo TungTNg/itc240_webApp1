@@ -65,7 +65,7 @@
     <hr>
     
     <h3>
-        Sign the Guestbook
+        Enter Your Contact
     </h3>
     <em>
         * fields are required
