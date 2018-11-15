@@ -1,0 +1,8 @@
+Guest: Tung
+Email: mecer80@gmail.com
+Message: Hello from the owner
+
+Guest: Sally
+Email: sally@gmail.com
+Message: Another Hello!!!
+
